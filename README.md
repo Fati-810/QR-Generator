@@ -10,13 +10,13 @@ A simple and fast QR Code Generator web app that allows users to generate QR cod
 
 🚀 Fast, Minimalist UI using Express.js and Node.js
 
-# Technical Overview ( Behind the Scenes):
+# Technical Overview (Behind the Scenes):
 Frontend:
 Embedded directly inside HTML returned from Express routes
 
 Styled using a clean and responsive custom style.css file
 
-Uses <form> submission and <img src="data:image/png;base64,..."> to display QR
+Uses form submission and img src="data:image/png;base64,..." to display QR
 
 Backend:
 Built using Node.js and Express.js
