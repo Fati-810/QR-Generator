@@ -1,5 +1,5 @@
 # QR Generator
-A simple and fast QR Code Generator web app that allows users to generate QR codes for any URL input. Designed for quick sharing and link embedding with a lightweight, responsive interface.
+A **simple** and **fast** QR Code Generator **web app** that allows users to generate QR codes for any URL input. Designed for **quick sharing** and **link embedding** with a **lightweight**, **responsive** interface.
 
 # Features:
 🔳 Instant QR Code Generation from any valid URL
