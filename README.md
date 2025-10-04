@@ -19,9 +19,9 @@ Styled using a clean and responsive custom CSS3.
 Uses form submission and img src="data:image/png;base64,..." to display QR.
 
 Backend:
-Built using Node.js and Express.js
+Built using Node.js and Express.js.
 
-Uses the qr-image package to generate QR codes as PNG buffers
+Uses the qr-image package to generate QR codes as PNG buffers.
 
 
 
