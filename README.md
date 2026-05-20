@@ -23,6 +23,10 @@ Built using Node.js and Express.js.
 
 Uses the qr-image package to generate QR codes as PNG buffers.
 
+
+## Preview:
+https://qr-generator-qplp.onrender.com/
+
 ## Contact:
 If you'd like to see more of my work, connect with me through my portfolio:
 
@@ -44,5 +48,3 @@ This project is for educational and portfolio purposes.
 
 
 
-# Link:
-https://qr-generator-qplp.onrender.com/
