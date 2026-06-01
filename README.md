@@ -11,14 +11,14 @@ A **simple** and **fast** QR Code Generator **web app** that allows users to gen
 🚀 Fast, Minimalist UI using Express.js and Node.js
 
 ## Technical Overview: (Behind the Scenes)
-Frontend:
+**Frontend:**
 Embedded directly inside HTML returned from Express routes.
 
 Styled using a clean and responsive custom CSS3.
 
 Uses form submission and img src="data:image/png;base64,..." to display QR.
 
-Backend:
+**Backend:**
 Built using Node.js and Express.js.
 
 Uses the qr-image package to generate QR codes as PNG buffers.
@@ -30,9 +30,9 @@ https://qr-generator-qplp.onrender.com/
 ## Contact:
 If you'd like to see more of my work, connect with me through my portfolio:
 
-Developer: Fatimah Ali
-Website: fatimahdigitaledge.com
-GitHub: github.com/fati-810
+**Developer:** *Fatimah Ali*  
+**Website:** https://fatimahdigitaledge.com  
+**GitHub:** https://github.com/fati-810
 
 ## License:
 This project is for educational and portfolio purposes.
