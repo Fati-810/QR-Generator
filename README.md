@@ -2,13 +2,13 @@
 A **simple** and **fast** QR Code Generator **web app** that allows users to generate QR codes for any URL input. Designed for **quick sharing** and **link embedding** with a **lightweight**, **responsive** interface.
 
 ## Features:
-🔳 Instant QR Code Generation from any valid URL
+🔳 Instant QR Code Generation from any valid URL.
 
-💾 Downloadable PNG Image of the QR code
+💾 Downloadable PNG Image of the QR code.
 
-🖼️ QR Code Displayed as Image in-browser
+🖼️ QR Code Displayed as Image in-browser.
 
-🚀 Fast, Minimalist UI using Express.js and Node.js
+🚀 Fast, Minimalist UI using Express.js and Node.js.
 
 ## Technical Overview: (Behind the Scenes)
 **Frontend:**
